@@ -5,3 +5,5 @@ NPM : 2306203873
 Kelas : PBP C
 
 Hobi : Main valo
+
+Jurusan : Ilmu Sistem Informasi Komputer
